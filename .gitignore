@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Secret keys
+config/
+
+# Notes file
+ISSUES.md
